@@ -1,23 +1,21 @@
 # 芝麻开门
 
 #### 介绍
-搞笑的登录页面
+搞笑的登录页面，仅供娱乐，请勿当真
 
 #### 软件架构
-软件架构说明
+采用jquery和Bootstrap框架，感谢框架作者！
 
 
 #### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  下载本仓库的文件
+2.  扔到服务器上（可选，可以使用本地运行）
+3.  访问`index.html`
 
 #### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  如果您需要修改密码，请到`click.js`里修改`变量password`的值
+2.  如果您需要修改CSS，请到`style.css`
+3.  本项目仅供娱乐，未设立任何防护措施和登录系统，纯前端实现，请勿当真
 
 #### 参与贡献
 
@@ -25,13 +23,3 @@
 2.  新建 Feat_xxx 分支
 3.  提交代码
 4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
